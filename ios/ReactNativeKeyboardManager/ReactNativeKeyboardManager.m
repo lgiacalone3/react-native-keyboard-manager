@@ -1,5 +1,5 @@
 // MIT License
-// 
+//
 // Copyright (c) 2017 Douglas Nassif Roma Junior
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -22,8 +22,8 @@
 
 #import "ReactNativeKeyboardManager.h"
 #import "IQKeyboardManager.h"
-#import <React/RCTLog.h>
-#import <React/RCTRootView.h>
+#import <RCTLog.h>
+#import <RCTRootView.h>
 
 @implementation ReactNativeKeyboardManager
 

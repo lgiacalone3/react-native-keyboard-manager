@@ -22,7 +22,7 @@
 
 #import "IQPreviousNextView.h"
 
-#import <React/RCTViewManager.h>
+#import <RCTViewManager.h>
 
 @interface RNKMPreviousNextViewManager : RCTViewManager
 @end
